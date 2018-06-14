@@ -1,0 +1,6 @@
+This is for practice again
+git status
+git add
+git commit
+git log
+
